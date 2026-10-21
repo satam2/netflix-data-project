@@ -1,4 +1,4 @@
-# netflix-data-project
+# Online News Popularity Dataset
 
 in your IDE:</br>
 add upstream branch: `git remote add upstream https://github.com/CS133-DataVisualization/CS133_Fa26_datafile.git` </br>
